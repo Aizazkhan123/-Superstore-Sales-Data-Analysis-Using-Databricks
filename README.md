@@ -10,12 +10,21 @@ The project includes data preparation, data transformation, SQL-based analysis, 
 The main objectives of this project are:
 
 Analyze overall sales and profitability.
+
 Identify yearly and monthly sales trends.
+
 Find the top-performing products and customers.
+
 Analyze category and sub-category performance.
+
 Compare regional and market performance.
 Evaluate shipping modes and delivery performance.
+
 Understand the impact of discounts on profitability.
+
 Analyze order priority and delivery time.
+
 Identify products generating negative profit.
+
 Build an interactive dashboard to visualize important KPIs and business trends.
+
